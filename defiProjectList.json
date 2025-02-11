@@ -1,3 +1,11 @@
-[
-    
-]
+{
+    "name": "USIT",
+    "logoURI": "https://yourproject.com/tron-trx-logo.png",
+    "homepage": "https://yourproject.com",
+    "MarketCapLink": "https://coinmarketcap.com/currencies/usit",
+    "url": "https://yourproject.com/api/tvl",
+    "category": "DEX",
+    "poolAddresses": [
+        "TJApPgWEpZB81Mga4vTGwcARw81U7TUbL4"
+    ]
+}
